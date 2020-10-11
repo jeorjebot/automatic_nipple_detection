@@ -5,7 +5,7 @@ Artificial Vision and Pattern Recognition, Universitat Rovira i Virgili
 The paper titled ‘Automatic nipple detection in breast thermograms’ proposes an unsupervised, automatic, accurate, simple and fast method to detect nipples in thermograms. The main stages of the proposed method are: human body segmentation, determination of nipple candidates using adaptive thresholding and detection of the nipples using a novel selection algorithm.
 
 ## Paper
-[Automatic nipple detection in breast thermograms](./paper/paper.pdf), 2016
+[Automatic nipple detection in breast thermograms](./paper/paper.pdf), 2016 
 Authors: Mohamed Abdel-Nasser , Adel Saleh, Antonio Moreno, Domenec Puig.
 
 ## Usage
