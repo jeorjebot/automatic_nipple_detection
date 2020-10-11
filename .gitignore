@@ -1,7 +1,7 @@
 ./segmented
 ./output
 ./filtered
-./*png
+
 ./trash
 
 .DS_Store
