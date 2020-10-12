@@ -9,7 +9,8 @@ The paper titled ‘Automatic nipple detection in breast thermograms’ proposes
 Mohamed Abdel-Nasser, Adel Saleh, Antonio Moreno, Domenec Puig.
 
 ## Usage
-Open the Matlab Live Script 'nipple_detection.mlx' and run it!
+Open the Matlab Live Script 'nipple_detection.mlx' and run it! <br>
+**The script loads the images in the 'input' directory.**
 
 ## Directories
 - paper: contains the pdf paper.
