@@ -13,10 +13,10 @@ Open the Matlab Live Script 'nipple_detection.mlx' and run it! <br>
 **The script loads the images in the 'input' directory.**
 
 ## Directories
-- paper: contains the pdf paper.
-- report: contains the lab report.
-- input: contains the input images for the script.
-- segmented (runtime): contains the images created after the human body segmentation phase (image + binary mask).
-- filtered (runtime): contains the binary images created after the adaptive threshold phase.
-- output (runtime): the output images with the nipples labelled.
+- **paper**: contains the pdf paper.
+- **report**: contains the lab report.
+- **input**: contains the input images for the script.
+- **segmented** (runtime): contains the images created after the human body segmentation phase (image + binary mask).
+- **filtered** (runtime): contains the binary images created after the adaptive threshold phase.
+- **output** (runtime): the output images with the nipples labelled.
 
