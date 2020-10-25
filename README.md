@@ -12,6 +12,13 @@ Mohamed Abdel-Nasser, Adel Saleh, Antonio Moreno, Domenec Puig.
 Open the Matlab Live Script 'nipple_detection.mlx' and run it! <br>
 **The script loads the images in the 'input' directory.**
 
+## Results
+![Results image](report/phases_block.png)
+- (a) input image
+- (b) segmented body
+- (c) adaptive threshold
+- (d) nipple detection
+
 ## Directories
 - **paper**: contains the pdf paper.
 - **report**: contains the lab report.
